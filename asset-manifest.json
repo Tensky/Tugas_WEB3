@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tugasweb3/static/css/main.a92ad470.chunk.css",
-    "main.js": "/tugasweb3/static/js/main.f81fb6cb.chunk.js",
-    "main.js.map": "/tugasweb3/static/js/main.f81fb6cb.chunk.js.map",
-    "runtime-main.js": "/tugasweb3/static/js/runtime-main.b5dfc542.js",
-    "runtime-main.js.map": "/tugasweb3/static/js/runtime-main.b5dfc542.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/tugasweb3/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.f63c7422.chunk.js": "/tugasweb3/static/js/2.f63c7422.chunk.js",
-    "static/js/2.f63c7422.chunk.js.map": "/tugasweb3/static/js/2.f63c7422.chunk.js.map",
-    "index.html": "/tugasweb3/index.html",
-    "precache-manifest.d45e252477f8f3706cbda9446bce2db0.js": "/tugasweb3/precache-manifest.d45e252477f8f3706cbda9446bce2db0.js",
-    "service-worker.js": "/tugasweb3/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/tugasweb3/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.a92ad470.chunk.css.map": "/tugasweb3/static/css/main.a92ad470.chunk.css.map",
-    "static/js/2.f63c7422.chunk.js.LICENSE.txt": "/tugasweb3/static/js/2.f63c7422.chunk.js.LICENSE.txt"
+    "main.css": "/WEB3B-16123-Winston-React/static/css/main.36313c86.chunk.css",
+    "main.js": "/WEB3B-16123-Winston-React/static/js/main.6e941cfc.chunk.js",
+    "main.js.map": "/WEB3B-16123-Winston-React/static/js/main.6e941cfc.chunk.js.map",
+    "runtime-main.js": "/WEB3B-16123-Winston-React/static/js/runtime-main.606b8eaf.js",
+    "runtime-main.js.map": "/WEB3B-16123-Winston-React/static/js/runtime-main.606b8eaf.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/WEB3B-16123-Winston-React/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.f63c7422.chunk.js": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js",
+    "static/js/2.f63c7422.chunk.js.map": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js.map",
+    "index.html": "/WEB3B-16123-Winston-React/index.html",
+    "precache-manifest.ccfd3ea96feef1667f92f3c7e37f1df5.js": "/WEB3B-16123-Winston-React/precache-manifest.ccfd3ea96feef1667f92f3c7e37f1df5.js",
+    "service-worker.js": "/WEB3B-16123-Winston-React/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3B-16123-Winston-React/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.36313c86.chunk.css.map": "/WEB3B-16123-Winston-React/static/css/main.36313c86.chunk.css.map",
+    "static/js/2.f63c7422.chunk.js.LICENSE.txt": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5dfc542.js",
+    "static/js/runtime-main.606b8eaf.js",
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.f63c7422.chunk.js",
-    "static/css/main.a92ad470.chunk.css",
-    "static/js/main.f81fb6cb.chunk.js"
+    "static/css/main.36313c86.chunk.css",
+    "static/js/main.6e941cfc.chunk.js"
   ]
 }
