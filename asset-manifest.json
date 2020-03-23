@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tugasweb3/static/css/main.a92ad470.chunk.css",
+    "main.js": "/tugasweb3/static/js/main.f81fb6cb.chunk.js",
+    "main.js.map": "/tugasweb3/static/js/main.f81fb6cb.chunk.js.map",
+    "runtime-main.js": "/tugasweb3/static/js/runtime-main.b5dfc542.js",
+    "runtime-main.js.map": "/tugasweb3/static/js/runtime-main.b5dfc542.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/tugasweb3/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.f63c7422.chunk.js": "/tugasweb3/static/js/2.f63c7422.chunk.js",
+    "static/js/2.f63c7422.chunk.js.map": "/tugasweb3/static/js/2.f63c7422.chunk.js.map",
+    "index.html": "/tugasweb3/index.html",
+    "precache-manifest.d45e252477f8f3706cbda9446bce2db0.js": "/tugasweb3/precache-manifest.d45e252477f8f3706cbda9446bce2db0.js",
+    "service-worker.js": "/tugasweb3/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/tugasweb3/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.a92ad470.chunk.css.map": "/tugasweb3/static/css/main.a92ad470.chunk.css.map",
+    "static/js/2.f63c7422.chunk.js.LICENSE.txt": "/tugasweb3/static/js/2.f63c7422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5dfc542.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.f63c7422.chunk.js",
+    "static/css/main.a92ad470.chunk.css",
+    "static/js/main.f81fb6cb.chunk.js"
+  ]
+}
