@@ -1,8 +1,6 @@
-import React from 'react';
-import { Layout, Menu, Breadcrumb } from 'antd';
+import React, { Component } from 'react';
 import { Card } from 'antd';
 import './App.css';
-const { Header, Content, Footer } = Layout;
 
 const cardData = [
   {
@@ -15,23 +13,25 @@ const cardData = [
   }
 ]
 
-function App() {
-  
- 
+class App extends Component {
+  constructor() {
+    super();
+  }
 
-  return (
-    
-
-    <div className="App">
-      {
-        cardData.map( data =>
-          <Card size="small" title={data.nama} style={{ width: 300 }}>
-            <p>{data.kerjaan}</p>
-          </Card>
-      )
-    }
-    </div>
-  );
+  render()  {
+    return (
+      <div className="App">{
+          cardData.map( data =>
+            <Card size="small" title={data.nama} style={{ width: 300 }}>
+              <p>{data.kerjaan}</p>
+            </Card>
+          )
+      }
+      </div>
+    ); 
+  }
 }
+
+
 
 export default App;
