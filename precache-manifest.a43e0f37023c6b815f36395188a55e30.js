@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0146f93b49130ad0da8aefa5b66d5612",
+    "revision": "eb98e294c5361124109cc0181e1cb049",
     "url": "/WEB3B-16123-Winston-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3B-16123-Winston-React/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "73902bb0bc0e14bf5595",
+    "revision": "76846e1c21fa49e32f7e",
     "url": "/WEB3B-16123-Winston-React/static/css/main.36313c86.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73902bb0bc0e14bf5595",
-    "url": "/WEB3B-16123-Winston-React/static/js/main.6e941cfc.chunk.js"
+    "revision": "76846e1c21fa49e32f7e",
+    "url": "/WEB3B-16123-Winston-React/static/js/main.53a067ec.chunk.js"
   },
   {
     "revision": "ca63b11bf0b9092c152c",

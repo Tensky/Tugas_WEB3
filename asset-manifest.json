@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WEB3B-16123-Winston-React/static/css/main.36313c86.chunk.css",
-    "main.js": "/WEB3B-16123-Winston-React/static/js/main.6e941cfc.chunk.js",
-    "main.js.map": "/WEB3B-16123-Winston-React/static/js/main.6e941cfc.chunk.js.map",
+    "main.js": "/WEB3B-16123-Winston-React/static/js/main.53a067ec.chunk.js",
+    "main.js.map": "/WEB3B-16123-Winston-React/static/js/main.53a067ec.chunk.js.map",
     "runtime-main.js": "/WEB3B-16123-Winston-React/static/js/runtime-main.606b8eaf.js",
     "runtime-main.js.map": "/WEB3B-16123-Winston-React/static/js/runtime-main.606b8eaf.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/WEB3B-16123-Winston-React/static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.f63c7422.chunk.js": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js",
     "static/js/2.f63c7422.chunk.js.map": "/WEB3B-16123-Winston-React/static/js/2.f63c7422.chunk.js.map",
     "index.html": "/WEB3B-16123-Winston-React/index.html",
-    "precache-manifest.ccfd3ea96feef1667f92f3c7e37f1df5.js": "/WEB3B-16123-Winston-React/precache-manifest.ccfd3ea96feef1667f92f3c7e37f1df5.js",
+    "precache-manifest.a43e0f37023c6b815f36395188a55e30.js": "/WEB3B-16123-Winston-React/precache-manifest.a43e0f37023c6b815f36395188a55e30.js",
     "service-worker.js": "/WEB3B-16123-Winston-React/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3B-16123-Winston-React/static/css/2.1bd2ab2f.chunk.css.map",
     "static/css/main.36313c86.chunk.css.map": "/WEB3B-16123-Winston-React/static/css/main.36313c86.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.f63c7422.chunk.js",
     "static/css/main.36313c86.chunk.css",
-    "static/js/main.6e941cfc.chunk.js"
+    "static/js/main.53a067ec.chunk.js"
   ]
 }
